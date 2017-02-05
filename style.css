@@ -1,9 +1,19 @@
 
 p {color: lightblue;}
 
-header {text-align: center;}
+#head {
+    padding-left: 250px;
+}
+header {text-align: center;
+    padding-left: 400px;
+}
 
 img.displayed {display: block;
     margin-left:auto;
     margin-right: auto;}
 body {background-color: yellow}
+
+#company {
+    color: blue;
+    font-weight: bold;
+}
